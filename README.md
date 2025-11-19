@@ -233,14 +233,5 @@ This project showcases expertise in:
 
 ---
 
-## 📄 License
-
-[Your License Here]
-
-## 👤 Author
-
-[Your Name/Contact Information]
-
----
 
 **Built with practicality, deployed with confidence.**
